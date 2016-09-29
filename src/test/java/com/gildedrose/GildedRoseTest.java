@@ -134,7 +134,7 @@ public class GildedRoseTest {
     }
 
     @Test
-    public void ConjuredDegradesTwiceAsFastAsNormalItemsBeforeSellin() {
+    public void conjuredDegradesTwiceAsFastAsNormalItemsBeforeSellin() {
         GildedRose app = getGildedRoseFromItem("Conjured", 10, 10);
         app.updateQuality();
 
@@ -142,7 +142,7 @@ public class GildedRoseTest {
     }
 
     @Test
-    public void ConjuredDegradesTwiceAsFastAsNormalItemsAfterSellin() {
+    public void conjuredDegradesTwiceAsFastAsNormalItemsAfterSellin() {
         GildedRose app = getGildedRoseFromItem("Conjured", 0, 10);
         app.updateQuality();
 
