@@ -132,4 +132,20 @@ public class GildedRoseTest {
 
         assertEquals("foo, 2, 50", result);
     }
+
+    @Test
+    public void ConjuredDegradesTwiceAsFastAsNormalItemsBeforeSellin() {
+        GildedRose app = getGildedRoseFromItem("Conjured", 10, 10);
+        app.updateQuality();
+
+        assertEquals(8, app.items[0].quality);
+    }
+
+    @Test
+    public void ConjuredDegradesTwiceAsFastAsNormalItemsAfterSellin() {
+        GildedRose app = getGildedRoseFromItem("Conjured", 0, 10);
+        app.updateQuality();
+
+        assertEquals(6, app.items[0].quality);
+    }
 }
