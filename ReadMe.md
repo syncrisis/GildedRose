@@ -2,6 +2,8 @@ Mob Programming Assignment Checklist/ReadMe
 
 Tarek Ajjour, Nathaniel Hedman, Damian Kilday, Alec Moeser, Wesley Rolnick (Mob Programming 3)
 
+To work as a mob team, we used a teleconfernce room for audio, and floobits for editing.  Floobits integrates with IntelliJ and allowed all of us to simultaneously see code changes.  It also allowed us to see where each team member had their cursor.
+
 
 In Canvas, join a Mob Programming group with the members of your mob programming team from Sunday’s on-campus
 class. You will all receive the same grade for this assignment.
