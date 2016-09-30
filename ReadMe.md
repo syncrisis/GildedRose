@@ -4,9 +4,8 @@ Tarek Ajjour, Nathaniel Hedman, Damian Kilday, Alec Moeser, Wesley Rolnick (Mob 
 
 To work as a mob team, we used a teleconfernce room for audio, and floobits for editing.  Floobits integrates with IntelliJ and allowed all of us to simultaneously see code changes.  It also allowed us to see where each team member had their cursor.
 
-
 In Canvas, join a Mob Programming group with the members of your mob programming team from Sunday’s on-campus
-class. You will all receive the same grade for this assignment.
+class. You will all receive the same grade for this assignment.  You can see a video of all of us mobing here: https://youtu.be/OgJQ3G8W6rc
 
 We are Mob Programming 3
 
@@ -20,7 +19,7 @@ Identify at least one solution for remote pair- and mob programming. What tools 
 enable excellent f2f-like collaboration? Strive to reproduce the mobbing we experienced during our
 on-campus weekend. Document your solution in your repo’s README.
 
-WebEx, Github
+WebEx, Github, Floobits integrated with IntelliJ
 
 
 Complete the Gilded Rose refactoring kata with your mob programming team.
@@ -32,7 +31,7 @@ See repo
 demonstrate that you worked as a mob, capture video of your session. Upload your video to YouTube
 or Vimeo. Here's an example. Document the URL of your video in your repo's README file.
 
-Video URL: [ADD]
+Video URL: https://youtu.be/OgJQ3G8W6rc
 
 
 - Aim for excellent code coverage of the production code; ignore code coverage of the test code.
@@ -40,7 +39,7 @@ Some of the on-campus mobs achieved >90% code coverage before they began refacto
 of your IDE or code coverage tool showing your project's code coverage. Include the screenshot in your
 git repo as a file named code-coverage.png.
 
-TO BE ADDED
+See repo.
 
 
 - Show that all your unit tests pass. Take a screen shot of the JUnit tests in your IDE, showing the list
